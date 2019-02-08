@@ -9,7 +9,7 @@ Super Star Destroyer - 2D игра в жанре Shoot'em up("Беги и стр
 
 * [Project Requirments](https://github.com/YoullloveGitHubUnlimitedCollaborators/SuperStarDestroyer/blob/master/Doc/ProjectRequirments.md)
 
-* [Mockups]()
+* [Mockups](https://github.com/YoullloveGitHubUnlimitedCollaborators/SuperStarDestroyer/tree/master/Doc/mockups)
 
 * [System Design](https://github.com/YoullloveGitHubUnlimitedCollaborators/SuperStarDestroyer/tree/master/Doc/System%20Design)
 
