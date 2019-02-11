@@ -14,7 +14,7 @@
 <a name="start_game"/>
 
 # Start Game Button
-![Start Game](StartGameButton.png)  
+![Start Game](StartButton.png)  
 
 <a name="stats"/>
   
