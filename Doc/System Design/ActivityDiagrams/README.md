@@ -1,16 +1,16 @@
-# Äèàãðàììû àêòèâíîñòåé
+# Диаграммы активностей
 ---
 
-# Ñîäåðæàíèå
-## Ãëàâíîå ìåíþ
+# Содержание
+## Главное меню
 * [Start Game Button](#start_game)  
 * [Exit Button](#exit)  
-## Âíóòðèèãðîâîå ìåíþ
+## Внутриигровое меню
 * [Continue](#continue)  
 * [Exit to Menu](#exit_to_menu)  
 
 
-# ÃËÀÂÍÎÅ ÌÅÍÞ
+# ГЛАВНОЕ МЕНЮ
 <a name="start_game"/>
 
 # Start Game Button
@@ -21,7 +21,7 @@
 # Exit Button
 ![Exit Button](ExitButton.png)
 
-# ÂÍÓÒÐÈÈÃÐÎÂÎÅ ÌÅÍÞ
+# ВНУТРИИГРОВОЕ МЕНЮ
 <a name="continue"/>
 
 # Continue Button
